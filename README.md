@@ -1,0 +1,1 @@
+This project is about creating side simple and text animation on it
